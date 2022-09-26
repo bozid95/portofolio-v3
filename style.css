@@ -1,6 +1,7 @@
 #particles-js {
   background-color: aqua;
 Position :absolute;
+z-index:1;
 }
 #content{
 padding-top : 5 rem;
