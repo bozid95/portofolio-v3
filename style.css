@@ -1,0 +1,30 @@
+#body {
+  background-image: url(img/animation.gif);
+  background-position: center;
+  background-size: auto;
+}
+
+#home {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+#article {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+#about {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+#project {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+#skill {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
